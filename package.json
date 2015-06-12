@@ -1,0 +1,24 @@
+{
+  "name": "html-entity",
+  "version": "0.1.0",
+  "description": "HTML entity encode and decode.",
+  "main": "htmlEntity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fenivana/htmlEntity.git"
+  },
+  "keywords": [
+    "html",
+    "entity",
+    "entities"
+  ],
+  "author": "Jiang FengMing <fenix@noindoin.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fenivana/htmlEntity/issues"
+  },
+  "homepage": "https://github.com/fenivana/htmlEntity#readme"
+}
